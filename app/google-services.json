@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "576094327006",
+    "project_id": "fir-89c4d",
+    "storage_bucket": "fir-89c4d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576094327006:android:5b35c5153b4311b769324f",
+        "android_client_info": {
+          "package_name": "com.example.selftrainer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9GjNpy28PSnc3tcwsaz4HYeKanF08RdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576094327006:android:25abec6af427030869324f",
+        "android_client_info": {
+          "package_name": "com.example.stripe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9GjNpy28PSnc3tcwsaz4HYeKanF08RdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576094327006:android:78c1592f44e6498d69324f",
+        "android_client_info": {
+          "package_name": "com.example.youtube"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9GjNpy28PSnc3tcwsaz4HYeKanF08RdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
